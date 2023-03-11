@@ -12,7 +12,7 @@ The current directory contains all of the SQL practice files related to the cour
 
 zero-to-hero-sql/SQL_Practice/  
 
-├── Week 1  
+├── Week 1/  
 
 │ ├── Day 1.sql  
 
