@@ -10,17 +10,28 @@ I will aim to make weekly contributions to this repository, but the frequency of
 
 This repository is organized into subdirectories based on different topics and projects related to data science, data engineering, and data analytics. The structure of the repository is as follows:
 
-data-science/
-├── big-data/
-├── data-queries/
-├── database-management/
-├── data-visualization/
-├── predictive-analytics/
-├── data-pipeline-engineering/
-├── model-creation-and-implementation/
-├── web-scraping/
-├── data-cleaning/
-└── ...
+data-science/  
+
+├── big-data/  
+
+├── data-queries/  
+
+├── database-management/  
+
+├── data-visualization/  
+
+├── predictive-analytics/  
+
+├── data-pipeline-engineering/  
+
+├── model-creation-and-implementation/  
+
+├── web-scraping/  
+
+├── data-cleaning/  
+
+└── ...  
+
 
 ## Study Topics
 
